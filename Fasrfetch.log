@@ -1,0 +1,29 @@
+           .-------------------------:                    healerneko@PowerfullTool
+          .+=========================.                    ------------------------
+         :++===++==================-       :++-           OS: CachyOS x86_64
+        :*++====+++++=============-        .==:           Host: 37722QP (Lenovo B490)
+       -*+++=====+***++==========:                        Kernel: Linux 6.18.60-2-cachyos-lts
+      =*++++========------------:                         Uptime: 4 hours, 42 mins
+     =*+++++=====-                     ...                Packages: 1323 (pacman)
+   .+*+++++=-===:                    .=+++=:              Shell: fish 4.9.3
+  :++++=====-==:                     -*****+              Display (LGD0385): 1366x768 in 14", 60 Hz [Built-in]
+ :++========-=.                      .=+**+.              Desktop Environment: Xfce4 4.20
+.+==========-.                          .                 Window Manager: Xfwm4 (X11)
+ :+++++++====-                                .--==-.     WM Theme: Default
+  :++==========.                             :+++++++:    Theme: Adwaita [GTK2/3/4]
+   .-===========.                            =*****+*+    Icons: elementary [GTK2/3/4]
+    .-===========:                           .+*****+:    Font: Sans (10pt) [GTK2/3/4]
+      -=======++++:::::::::::::::::::::::::-:  .---:      Cursor: Adwaita
+       :======++++====+++******************=.             Terminal: xfce4-terminal 1.2.0
+        :=====+++==========++++++++++++++*-               Terminal Font: Monospace (10pt)
+         .====++==============++++++++++*-                CPU: Intel(R) Celeron(R) 1000M (2) @ 1.80 GHz
+          .===+==================+++++++:                 GPU: Intel HD Graphics @ 1.00 GHz [Integrated]
+           .-=======================+++:                  Memory: 2.17 GiB / 3.66 GiB (59%)
+             ..........................                   Swap: 665.57 MiB / 3.66 GiB (18%)
+                                                          Disk (/): 24.38 GiB / 48.91 GiB (50%) - ext4
+                                                          Local IP (wlan0): 192.168.0.112/24
+                                                          Battery (45N1045): 48% [AC Connected, Charging]
+                                                          Locale: pt_BR.UTF-8
+                                                          
+                                                          [40m   [41m   [42m   [43m   [44m   [45m   [46m   [47m   [m
+                                                          [100m   [101m   [102m   [103m   [104m   [105m   [106m   [107m   [m
